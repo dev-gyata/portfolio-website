@@ -33,13 +33,13 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Sofware Developer - Intern",
-    location: "Dawurobo Inc, Accra",
+    title: "Sofware Engineer",
+    location: "Accede Ghana, Accra",
     description:
-      "I worked as in intern here. I worked on Dawurobo X platform using flutter and Dart as my main stack.",
+      "I'm now a mobile engineer working for Accede Ghana. My stack for most projects I have worked on includes Flutter, Dart, and Firebase.",
     icon: React.createElement(CgWorkAlt),
-    date: "October, 2021 - Janury, 2022",
-    link: "https://www.dawurobo.com/",
+    date: "December, 2022 - present",
+    link: "https://accede.dev/",
   },
   {
     title: "Sofware Engineer",
@@ -51,14 +51,14 @@ export const experiencesData = [
     link: "https://bismuthinc.com/",
   },
   {
-    title: "Sofware Engineer",
-    location: "Accede Ghana, Accra",
+    title: "Sofware Developer - Intern",
+    location: "Dawurobo Inc, Accra",
     description:
-      "I'm now a mobile engineer working for Accede Ghana. My stack for most projects I have worked on includes Flutter, Dart, and Firebase.",
+      "I worked as in intern here. I worked on Dawurobo X platform using flutter and Dart as my main stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "December, 2022 - present",
-    link: "https://accede.dev/",
-  },
+    date: "October, 2021 - Janury, 2022",
+    link: "https://www.dawurobo.com/",
+  }
 ] as const;
 
 export const projectsData = [

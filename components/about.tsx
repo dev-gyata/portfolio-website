@@ -27,8 +27,8 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">Outside of work, </span>I'm a passionate football fan and enjoy discussing the latest matches and players.
-         Check out my portfolio to see some of the projects I've worked on and feel free to reach out for any football chat!
+        <span className="italic">Outside of work, </span>I&apos;m a passionate football fan and enjoy discussing the latest matches and players.
+         Check out my portfolio to see some of the projects I&apos;ve worked on and feel free to reach out for any football chat!
       </p>
     </motion.section>
   );
