@@ -56,7 +56,7 @@ export const experiencesData = [
     description:
       "I worked as in intern here. I worked on Dawurobo X platform using flutter and Dart as my main stack.",
     icon: React.createElement(CgWorkAlt),
-    date: "October, 2021 - Janury, 2022",
+    date: "October, 2021 - January, 2022",
     link: "https://www.dawurobo.com/",
   }
 ] as const;
