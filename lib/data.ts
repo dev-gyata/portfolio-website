@@ -112,4 +112,5 @@ export const myInfo = {
   linkedIn: "https://www.linkedin.com/in/felix-asamoah-yeboah-742594170/",
   github: "https://github.com/gyatashoa",
   email: "felixasamoah539@gmail.com",
+  twitter: "https://twitter.com/_felixcodes",
 } as const;
