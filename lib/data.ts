@@ -110,7 +110,7 @@ export const skillsData = [
 
 export const myInfo = {
   linkedIn: "https://www.linkedin.com/in/felix-asamoah-yeboah-742594170/",
-  github: "https://github.com/gyatashoa",
+  github: "https://github.com/dev-gyata",
   email: "felixasamoah539@gmail.com",
-  twitter: "https://twitter.com/_felixcodes",
+  twitter: "https://x.com/felixasamoah_y",
 } as const;
